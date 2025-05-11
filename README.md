@@ -4,7 +4,13 @@ Event management system.
 
 A full-stack web application that allows users to browse events, register for them, and even post their own. This platform is designed to make event discovery and management seamless and user-friendly.
 
-![Event Manager Screenshot](./screenshots/Vite + React - Avast Secure Browser 5_11_2025 7_57_35 PM.png)
+![Home page when logged out](./screenshots/homepage.png)
+![Login page out](./screenshots/loginpage.png)
+![Login error out](./screenshots/loginError.png)
+![Signin](./screenshots/signinpage.png)
+![Event details](./screenshots/eventdetails.png)
+![Account post details](./screenshots/accountpostdetail.png)
+
 
 ---
 
