@@ -38,10 +38,4 @@ A full-stack web application that allows users to browse events, register for th
 
 ---
 
-## 🚀 Getting Started
 
-Follow these steps to get a local copy up and running:
-
-### Clone the repository
-```bash
-git clone https://github.com/yourusername/event-manager.git
